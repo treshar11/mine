@@ -1,0 +1,6 @@
+{
+  "name": "Vocalis Reminders",
+  "description": "Modern voice-enabled Android reminder app for appointments, bills, tasks, and subscriptions with interactive calendar and reliable alerts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
